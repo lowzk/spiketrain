@@ -1,0 +1,14 @@
+Total Nodes: 730210
+Saved Nodes: 422494
+Total Spikes: 58085871.0
+Saved Spikes: 13889.0
+Original tensor memory: 370.26123046875
+Final tensor memory: 57.85331726074219
+Memory savings: 312.4079132080078
+Training MACs: 5982860083200.0
+Inference MACs: 24928583680.0
+Final loss: 0.0770075806781692
+F1 Score (Macro): 0.7091994681117987
+F1 Score (Micro): 0.7199572725654264
+Final accuracy: 71.99572725654264
+Time taken: 51.252872943878174
