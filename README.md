@@ -2,6 +2,8 @@
 
 This repository is an official PyTorch implementation of SpikeTrain done by Low Zhe Kai for his Final Year Project in the Nanyang Technological University of Singapore under SCSE.
 
+This project was done under the guidance of Asst Prof Luo Siqiang and Zulun Zhu. 
+
 ## Basic set up
 
 1. Download DBLP dataset at the [following link](https://www.dropbox.com/scl/fo/5w0a14icfv4o7t0azrqda/AOLp-_Kd1s_USOzeoAttE7w?rlkey=qhx7csgahlcbuppjx4ewa3l0o&e=1&dl=0) and place it in the root directory. Make sure that the folder is named `data`
