@@ -1,0 +1,8 @@
+Original tensor memory: 13.71337890625
+Final tensor memory: 0.4285430908203125
+Memory savings: 13.284835815429688
+Training MACs: 47752151040.0
+Inference MACs: 198967296.0
+Final loss: 0.6424862784756855
+Final accuracy: 67.95442406978815
+Time taken: 3.996181011199951

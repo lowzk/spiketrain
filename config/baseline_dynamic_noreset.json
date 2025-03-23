@@ -1,0 +1,17 @@
+{
+  "hyperparameters_id": "baseline_dynamic_noreset", 
+  "dataset": "DBLP",
+  "graph_type": "dynamic",
+  "dynamic_reset": false,
+  "time_steps": 5,
+  "tau": 1.0,
+  "alpha": 1.0,
+  "surrogate": "triangle", 
+  "act": "LIF",
+  "a": 0.5,
+  "b": 0.5,
+  "prune_param": null,
+  "model": "MLP",
+  "threshold": 0.5
+}
+

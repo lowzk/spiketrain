@@ -1,0 +1,8 @@
+{
+  "batch_size": 64,
+  "num_epochs": 20,
+  "verbose": false,
+  "test_memory": true,
+  "save_tensor": false,
+  "test_size": 0.2
+}

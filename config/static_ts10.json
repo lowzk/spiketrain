@@ -1,0 +1,15 @@
+{
+  "hyperparameters_id": "static_ts10", 
+  "dataset": "DBLP",
+  "graph_type": "static",
+  "time_steps": 10,
+  "tau": 1.0,
+  "alpha": 1.0,
+  "surrogate": "triangle", 
+  "act": "LIF",
+  "a": 0.5,
+  "b": 0.5,
+  "prune_param": null,
+  "model": "MLP",
+  "threshold": 0.5
+}

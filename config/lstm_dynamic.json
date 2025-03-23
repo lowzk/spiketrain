@@ -1,0 +1,15 @@
+{
+  "hyperparameters_id": "lstm_dynamic", 
+  "dataset": "DBLP",
+  "graph_type": "dynamic",
+  "time_steps": 5,
+  "tau": 1.0,
+  "alpha": 1.0,
+  "surrogate": "triangle", 
+  "act": "LIF",
+  "a": 0.5,
+  "b": 0.5,
+  "prune_param": null,
+  "model": "LSTM",
+  "threshold": 0.5
+}
